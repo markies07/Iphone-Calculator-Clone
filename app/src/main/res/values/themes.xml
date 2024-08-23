@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <resources>
+        <style name="Theme.NavalTobisCalculator" parent="Theme.AppCompat.Light">
+            <item name="colorPrimary">@color/darkGray</item>
+            <item name="colorPrimaryDark">@color/lightGray</item>
+            <item name="colorAccent">@color/orange</item>
+        </style>
+    </resources>
+
